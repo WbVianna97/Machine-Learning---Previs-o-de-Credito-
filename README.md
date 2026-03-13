@@ -69,12 +69,6 @@ Comparação da precisão utilizando métricas de avaliação.
 
 Após a comparação entre os modelos, o algoritmo Random Forest apresentou melhor desempenho na previsão do score de crédito.
 
-📂 Estrutura do Projeto
-projeto-score-credito
-│
-├── clientes.csv
-├── modelo_score_credito.py
-└── README.md
 🚀 Possíveis Melhorias
 
 Algumas melhorias que podem ser implementadas futuramente:
